@@ -51,7 +51,6 @@ class RecintosZoo {
 
         
         // condicao dos biomas
-        // observação para possivel erro na variavel onde tabela[i] recebe um true o false        
         for(let i=0;i<tabela.length;i++){
             let linha = tabela[i];
 
@@ -76,7 +75,6 @@ class RecintosZoo {
         }   
 
 
-        // observação para possivel erro na variavel onde tabela[i] recebe um true o false
         // condicao de animal carnivoro e qual recinto ele pode entrar
         for(let i=0;i<tabela.length;i++){
 
